@@ -2,18 +2,20 @@
 Welcome to StoryVerse!
 This platform is dedicated to fandoms and genres, providing a space for fans to explore, write, and share their stories. Whether you're a seasoned writer or a newcomer, our page is a community-driven space where creativity thrives.
 # Features
--Story Submission: Authors can submit their fan fiction stories, complete with titles, summaries, and tags.<br>
--Story Browsing: Readers can browse stories by genre<br>
--Search Functionality: Find stories using keywords, characters, or specific themes.<br>
--Customizable Profiles: Create a profile, showcase your writing, and connect with other fans.<br>
+- Story Submission: Authors can submit their fan fiction stories, complete with titles, summaries, and tags.<br>
+- Story Browsing: Readers can browse stories by genre<br>
+- Search Functionality: Find stories using keywords, characters, or specific themes.<br>
+- Customizable Profiles: Create a profile, showcase your writing, and connect with other fans.<br>
 # Usage
 To compile the library, use the following command:
 
 ```bash
 $ npm run start
+```
 
 ```bash
-$ nodemon index.js<br>
+$ nodemon index.js
+```
 
 # Getting Started
 -Sign Up: Create an account to start submitting stories or saving your favorite reads.<br>
